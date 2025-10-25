@@ -1,2 +1,1 @@
-# Hussein
-Trader
+hu6ja-app.zip
